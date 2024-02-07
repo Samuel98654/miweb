@@ -3,4 +3,7 @@ esto es entornos
 =======
 esto es entornos
 esto es entornos
+<<<<<<< HEAD
+>>>>>>> ramab
+=======
 >>>>>>> ramab
